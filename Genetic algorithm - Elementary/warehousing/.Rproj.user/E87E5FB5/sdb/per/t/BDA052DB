@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1482872410896.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BDA052DB",
+    "lastKnownWriteTime" : 167786856,
+    "last_content_update" : 1482872410896,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "krqx4f61sy",
+        "caption" : "commodity_inf",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=commodity_inf&cache_key=krqx4f61sy",
+        "displayedObservations" : "3",
+        "environment" : "",
+        "object" : "commodity_inf",
+        "totalObservations" : "3",
+        "variables" : "5"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
